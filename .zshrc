@@ -110,6 +110,7 @@ alias j1.7='javahome 1.7'
 alias j1.8='javahome 1.8'
 alias j11='javahome 11'
 alias j17='javahome 17'
+alias j21='javahome 21'
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
